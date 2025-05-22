@@ -542,6 +542,7 @@ rule-providers:
     type: http
 
 rules:
+  - "PROCESS-NAME,Overwatch,DIRECT"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
