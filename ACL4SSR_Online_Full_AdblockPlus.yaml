@@ -542,8 +542,8 @@ rule-providers:
     type: http
 
 rules:
-  - "PROCESS-NAME,Overwatch,DIRECT"
-  - "PROCESS-NAME,r5apex_dx12,DIRECT"
+  - "PROCESS-NAME,Overwatch.exe,DIRECT"
+  - "PROCESS-NAME,r5apex_dx12.exe,DIRECT"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
