@@ -543,6 +543,7 @@ rule-providers:
 
 rules:
   - "PROCESS-NAME,Overwatch,DIRECT"
+  - "PROCESS-NAME,r5apex_dx12,DIRECT"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
