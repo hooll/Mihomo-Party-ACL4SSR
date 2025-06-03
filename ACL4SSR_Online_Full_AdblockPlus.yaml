@@ -544,7 +544,6 @@ rule-providers:
 rules:
   - "PROCESS-NAME,Overwatch.exe,DIRECT"
   - "PROCESS-NAME,r5apex_dx12.exe,DIRECT"
-  - "PROCESS-NAME,idea64.exe,🇯🇵 日本节点"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
