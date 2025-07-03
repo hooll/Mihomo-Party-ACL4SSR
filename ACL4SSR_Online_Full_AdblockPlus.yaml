@@ -546,6 +546,7 @@ rules:
   - "PROCESS-NAME,r5apex_dx12.exe,DIRECT"
   - "PROCESS-NAME,Lightroom.exe,🇯🇵 日本节点"
   - "PROCESS-NAME,Creative Cloud.exe,🇯🇵 日本节点"
+  - "PROCESS-NAME,cb08eea4-7713-41e1-8766-858ce5b8db7d.exe,DIRECT"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
